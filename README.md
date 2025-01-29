@@ -25,5 +25,5 @@ To run this project, you need the following dependencies:
 3. Run the chatbot:
      ```bash
      python chatbot.py
-##Usage
+## Usage
 Once the chatbot is running, you can interact with it via the command line or integrate it into your application. The chatbot is designed to handle a variety of conversational tasks, from answering questions to providing recommendations.
