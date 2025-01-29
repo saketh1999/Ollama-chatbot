@@ -16,7 +16,7 @@ To run this project, you need the following dependencies:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/langchain-ollama-chatbot.git](https://github.com/saketh1999/Ollama-chatbot.git)
+   git clone https://github.com/saketh1999/Ollama-chatbot.git
    cd Ollama-chatbot
 
 2. Install the required dependencies:
